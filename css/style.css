@@ -22,7 +22,25 @@
   position: absolute;
   top: 0;
   right: 0;
+
+}
+
+.discount.green{
+  background-color: green;
+
+}
+
+.discount.red{
   background-color: red;
+
+}
+
+.heart{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  font-size: 25px;
+  color: red;
 }
 
 body{
